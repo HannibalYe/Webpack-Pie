@@ -1,0 +1,21 @@
+.test-less img {
+  width: 300px;
+  height: 300px;
+}
+
+#nav {
+  width: 100%;
+}
+
+body {
+  background-color: red;
+  color: #fff;
+}
+
+.imgbg {
+  background-image: url(http://192.168.1.104:1717/imges/13250a7dd519ccfef83db4c28bbe6bb4.jpg);
+  width: 1000px;
+  height: 1000px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
